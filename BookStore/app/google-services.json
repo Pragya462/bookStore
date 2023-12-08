@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510128073299",
+    "project_id": "bookstore-fea2f",
+    "storage_bucket": "bookstore-fea2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510128073299:android:346fcc8bbc293fc6a574a6",
+        "android_client_info": {
+          "package_name": "com.example.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510128073299-uvi3qicu6rkoareob5n4uic4up5antcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ11jteluG1wnoYs_9EqTI5TByuI0cCNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510128073299-uvi3qicu6rkoareob5n4uic4up5antcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

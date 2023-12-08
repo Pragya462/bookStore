@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abril_fatface</item>
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/alata</item>
+        <item>@font/alatsi</item>
+        <item>@font/alex_brush</item>
+        <item>@font/allan</item>
+        <item>@font/arima_madurai_thin</item>
+        <item>@font/candal</item>
+    </array>
+</resources>
